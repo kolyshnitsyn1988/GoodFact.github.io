@@ -3,9 +3,7 @@ import './css/font.css';
 import './css/media.css';
 
 import $ from 'jquery';
-// import '../node_modules/owl.carousel';
-// import "../node_modules/owl.carousel/dist/assets/owl.carousel.min.css";
-// $('.slaider').owlCarousel();
+
 
 
 import {TimelineMax, Power0, Power1, Back} from 'gsap';
